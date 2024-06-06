@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.5
+
+### Patch Changes
+
+- We are adding the final set of popover tests. With this we should now have full coverage for both current and legacy browsers. (by [@cwoolum](https://github.com/cwoolum) in [`6a5dd05`](https://github.com/qwikifiers/qwik-ui/commit/6a5dd05a38365d50eb7ff71c248d3da01e230f93))
+
+- Chromium 109-113 did not properly support the popover but reported that they did. This led to the polyfill not activating which caused our E2E tests to break. We are dropping down to Chromium 108 to validate the polyfill as users of Chrome would see it before the popover API was supported. (by [@cwoolum](https://github.com/cwoolum) in [#827](https://github.com/qwikifiers/qwik-ui/pull/827))
+
 ## 0.4.4
 
 ### Patch Changes
