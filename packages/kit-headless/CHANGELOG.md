@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.2
+
+### Patch Changes
+
+- 🐞🩹 modal close handler onClick$ (by [@thejackshelton](https://github.com/thejackshelton) in [#909](https://github.com/qwikifiers/qwik-ui/pull/909))
+
+- ✨ implement a beta version of the Tooltip component (by [@cwoolum](https://github.com/cwoolum) in [`4c7fe5a`](https://github.com/qwikifiers/qwik-ui/commit/4c7fe5a676fdedbb18661beccb647e78c3f0dc11))
+
 ## 0.5.1
 
 ### Patch Changes
