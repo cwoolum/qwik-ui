@@ -1,5 +1,11 @@
 # qwik-ui
 
+## 0.1.4
+
+### Patch Changes
+
+- Added new contributors page driven by the Github API (by [@cwoolum](https://github.com/cwoolum) in [`c48a13b`](https://github.com/qwikifiers/qwik-ui/commit/c48a13b5a8dc2586c5c8987a97a97f1b5d57570a))
+
 ## 0.1.3
 
 ### Patch Changes
