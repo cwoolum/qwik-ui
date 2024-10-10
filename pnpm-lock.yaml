@@ -335,7 +335,7 @@ importers:
         version: 1.9.0(@types/node@20.12.12)(sass@1.77.4)(terser@5.31.1)
     devDependencies:
       '@qwik-ui/headless':
-        specifier: ^0.6.0
+        specifier: ^0.7.0
         version: link:../kit-headless
       '@qwik-ui/utils':
         specifier: 0.3.1
